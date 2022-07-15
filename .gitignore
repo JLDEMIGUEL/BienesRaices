@@ -1,4 +1,5 @@
 src/
+cypress/
 vendor/
 bienes_raices.sql
 node_modules/
