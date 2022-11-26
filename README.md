@@ -1,15 +1,12 @@
 # BienesRaices
-Proyecto MVC con PHP8, MYSQL, HTML, CSS, Javascript, SASS:
+First web app I've developed using PHP8, MYSQL, HTML5, CSS3, Javascript, SASS:
 
 
-Aplicación web de venta de propeidades de lujo.
+Web Application for luxury homes sellings. 
 
-Características:
-Base de datos para almacenar, usuarios (admin), propiedades y vendedores.
-Hash de passwords de los usuarios.
-Secciones de Nosotros, Contacto, Anuncios y Blog.
-Seccion privada con CRUD de propiedades y vendedores.
-Modo oscuro.
-Se ha utilizado SASS y NPM.
-
-https://bienesraices-jldemiguel.herokuapp.com/
+Features:
+Database for storing users (admin), homes and sellers
+Hash of users passwords.
+CRUD for homes and sellers.
+Dark mode
+Use of NPM.
